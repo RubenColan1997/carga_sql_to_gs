@@ -1,0 +1,7 @@
+base: 'C:\Users\RUBEN\Desktop\PROYECTOS\PYTHON\01_ETL_SQL_GOOGLE_SHEET'
+
+files:
+  credentials: 'ACCESOS'
+
+sql_server: 'DESKTOP-3MIIFU3'
+sql_bbdd: 'BD_PROYECTOS'
